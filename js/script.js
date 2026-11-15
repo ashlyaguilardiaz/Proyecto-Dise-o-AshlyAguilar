@@ -22,4 +22,4 @@ mensaje.textContent = "¡Inténtalo de nuevo!  ";
 
 });
 
-});
+});g
