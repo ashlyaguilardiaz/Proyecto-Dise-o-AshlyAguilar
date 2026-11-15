@@ -9,7 +9,7 @@ body {
     line-height: 1.8;
 }
 
-header { background: linear-gradient(90deg, #8066b5, #a58bd2); position: sticky; top: 0; z-index: 10; }
+header { background: linear-gradient(90deg, #6a4fa3, #c08ad8); position: sticky; top: 0; z-index: 10; }
 
 nav {
     max-width: 1250px; margin: auto; padding: 15px;
