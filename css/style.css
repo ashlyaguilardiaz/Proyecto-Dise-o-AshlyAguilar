@@ -161,3 +161,16 @@ section h2::after {
     .capitulo h2 { font-size: 26px; }
     .imagen-elementos { width: 100%; }
 }
+footer {
+    margin-top: 40px;
+    padding: 20px;
+    text-align: center;
+    background: linear-gradient(90deg, #8066b5, #a58bd2);
+    border-radius: 25px 25px 0 0;
+}
+
+footer p {
+    color: white;
+    font-size: 13px;
+    margin: 0;
+}
