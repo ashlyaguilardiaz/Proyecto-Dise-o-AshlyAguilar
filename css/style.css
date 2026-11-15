@@ -92,7 +92,7 @@ section a, button {
     text-decoration: none; font: 600 13px 'Poppins', sans-serif; cursor: pointer;
 }
 
-section a:hover, button:hover { background: #7957b0; }
+section a:hover, button:hover { background: #7957b0; transform: translateY(-3px); box-shadow: 0 6px 15px #9b7bc555; }
 .boton-continuar { display: block; width: fit-content; margin: 30px auto 10px; }
 
 #mensaje { color: #896cbd; font-weight: bold; margin-top: 20px; }
